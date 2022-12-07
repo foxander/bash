@@ -3,8 +3,8 @@
 # Define default options and variables
 VERSION="1.0"
 DHUS_SERVER_URL="https://sentinel-hub.inpe.br"
-DHUS_USER="foxander602"
-DHUS_PASSWD="mulder0322"
+DHUS_USER="XXXX"
+DHUS_PASSWD="XXXX"
 JSON_OPT=false
 VERBOSE=false
 RESULT_LIST=""
